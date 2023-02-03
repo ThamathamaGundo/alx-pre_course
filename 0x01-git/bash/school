@@ -1,2 +1,2 @@
-#!/bin/blash
-echo School
+#!/bin/bash
+echo "School" 
